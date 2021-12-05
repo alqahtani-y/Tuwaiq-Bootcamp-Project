@@ -32,7 +32,7 @@ Nowadays, millions of users are expressing their opinions and feelings regarding
 
 ### Tools:
 * **Data manipulating**: Pandas & Numpy
-* **Modeling**: Sklearn & Tenserflow or Pytorch.
+* **Modeling**: Sklearn, Keras, Tenserflow or Pytorch.
 * **Visualization**: Matplotlib & Seaborn.
 * **Additional tools**:
     * Google Collab for cloud processing.
