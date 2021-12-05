@@ -6,7 +6,7 @@ Nowadays, millions of users are expressing their opinions and feelings regarding
 ### Question/need:
 * The purpose of this project is twofold:
   * Build a model (classifier) that can discover the sentiment of Arabic sentences as either positive or negative.
-  * Investigate the impact on performance as a result of using different Arabic data (MSA and two dialects)
+  * Investigate the impact on performance as a result of using different Arabic text types and domains.
 * Business, content makers and social bloggers can benefit from building this model by monitoring comments and feedbacks of their customers/followers and take faster reactions when needed. 
 
 
