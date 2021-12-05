@@ -39,6 +39,6 @@ Nowadays, millions of users are expressing their opinions and feelings regarding
     * Huggingface pretrained language models.
 
 ### MVP Goal:
-A minimum viable product would be a exploratory data analysis and a baselines classifier.
+A minimum viable product would be an Exploratory Data Analysis (EDA) and a baseline classifier.
 
 
