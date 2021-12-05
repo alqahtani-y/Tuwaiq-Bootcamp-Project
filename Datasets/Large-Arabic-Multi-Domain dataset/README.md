@@ -1,8 +1,4 @@
-# Datasets description
-
-this readme file contains naming convension of the dataset files 
-
-## Datasets description and sizes :
+### Datasets description [[Available]](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/tree/master/datasets) [1]
 
 - ATT.csv
   - Dataset of Attraction Reviews scrapped from TripAdvisor.com 
@@ -33,18 +29,12 @@ this readme file contains naming convension of the dataset files
   - RES1.csv and RES2.csv combined
   - 10970 reviews
 
-
-
-## loading datasets 
-using python & pandas you can easily load any of the datasets as following :
 ```
->> import pandas as pd 
->> x = pd.read_csv("HTL.csv",encoding="utf-8")
->> x.shape
-
-(15572, 2)
+[1] ElSahar, H., & El-Beltagy, S. R. (2015, April).
+Building large arabic multi-domain resources for sentiment analysis.
+In International Conference on Intelligent Text Processing and Computational Linguistics (pp. 23-34).
+Springer, Cham.‏
 ```
-
 
 
 
