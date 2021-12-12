@@ -3,7 +3,7 @@
 ### Introduction
 
 Parts of EDA were presented on one multi-domain dataset in MSA (resturants, products, movies, hotels), followed by few primary experiments using basline classifiers.
-Below is a summary of work and findings (details and charts in [MVP notebook](https://github.com/alqahtani-y/Tuwaiq-Bootcamp-Project/blob/main/mvp_submit.ipynb))
+Below is a summary of work and findings (details and charts in [MVP notebook](https://github.com/alqahtani-y/Tuwaiq-Bootcamp-Project/blob/main/Project-MVP/mvp_submit.ipynb))
 
 ### Dataset analysis:
 
