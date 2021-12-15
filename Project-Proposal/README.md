@@ -6,8 +6,8 @@ Nowadays, millions of users are expressing their opinions and feelings regarding
 ### Question/need:
 * The purpose of this project is twofold:
   * Build models (classifiers) that can discover the sentiment of Arabic sentences as either positive or negative.
-  * Test recent Arabic pretrained LMs on different datasets and compare between them.
-  * Investigate the impact on performance as a result of using different Arabic text types and domains.
+  * Test Arabic pretrained LM and worde embeddings on different datasets and compare between them.
+  * Investigate the impact on performance as a result of using different Arabic text types/domains.
 * Business, content makers and social bloggers can benefit from building this model by monitoring comments and feedbacks of their customers/followers and take faster reactions when needed. 
 
 
@@ -21,10 +21,8 @@ Nowadays, millions of users are expressing their opinions and feelings regarding
     * Dialectal Arabic (Levantine)
     * 4k Tweets
     * Available: [http://oma-project.com/]
-   * **MARSA: Multi-domain Arabic resources for sentiment analysis**
-     * Dialectal Arabic (Gulf)
-     * 60k tweets
-     * Available: [https://github.com/imamu-asa/ASA/tree/main/ASA-Dataset]
+
+
 * Unit of analysis:
   * A sentence in Arabic (review or tweet)
 * Prediction target:
@@ -33,11 +31,12 @@ Nowadays, millions of users are expressing their opinions and feelings regarding
 
 ### Tools:
 * **Data manipulating**: Pandas & Numpy
-* **Modeling**: Sklearn, Keras, Tenserflow or Pytorch.
-* **Visualization**: Matplotlib & Seaborn.
+* **Modeling**: Sklearn, Keras & Tenserflow.
+* **Visualization**: Matplotlib.
 * **Additional tools**:
     * Google Collab for cloud processing.
-    * Huggingface pretrained language models.
+    * Pretrained language model (Huggingface)
+    * Pretrained worde embeddings (Github)
 
 ### MVP Goal:
 A minimum viable product would be an Exploratory Data Analysis (EDA) and a baseline classifier.
